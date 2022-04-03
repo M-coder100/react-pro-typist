@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Pro-Typist
+A website which can make you a pro typer which is built using React.js
+## Get started
+![image](https://user-images.githubusercontent.com/82762527/161432565-2b700ff5-7304-41b5-9cfb-7caa7625ebe8.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First of all to become a better typer you need to take some tests, the **Typing Tests** would help you to do it!  
 
-## Available Scripts
+You should focus the input box, and you can start typing the text that has been given. Focus at only the screen and try not to see the keyboard. For better practices you should learn touch typing.  
+The letters which were typed wrong will be indicated in red and correct ones will be diminished; you can't jump to the next letter if the letter you typed was wrong.  
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/82762527/161433668-dd1527c1-7459-4e38-ba49-f75d3ab8c91f.png)
 
-### `npm start`
+After you typed the text the activity bar (Speed, Accuracy) will be updated by some calculations and input box would be reset.  
+And also the more you type, the progress bar for total time spent will also be updated.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/82762527/161433997-00c4108d-36d4-4d4d-8a29-ef65eb18cc0e.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Try it!
+Clone this repository by your GitHub CLI and start typing to make yourself a better typer.  
+`>> gh repo clone M-coder100/react-pro-typist`  
+_NOTE: this website is still under develeopment_
+***
+**Enjoy Typing!**
