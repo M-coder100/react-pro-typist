@@ -17,7 +17,7 @@ And also the more you type, the progress bar for total time spent will also be u
 
 ## Try it!
 Clone this repository by your GitHub CLI and start typing to make yourself a better typer.  
-`>> gh repo clone M-coder100/react-pro-typist`  
+`>> git clone M-coder100/react-pro-typist`  
 _NOTE: this website is still under develeopment_
 ***
 **Enjoy Typing!**
