@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pro-typist/static/css/main.e7bddcea.css",
+    "main.js": "/react-pro-typist/static/js/main.980a2532.js",
+    "static/js/787.e0072e62.chunk.js": "/react-pro-typist/static/js/787.e0072e62.chunk.js",
+    "index.html": "/react-pro-typist/index.html",
+    "main.e7bddcea.css.map": "/react-pro-typist/static/css/main.e7bddcea.css.map",
+    "main.980a2532.js.map": "/react-pro-typist/static/js/main.980a2532.js.map",
+    "787.e0072e62.chunk.js.map": "/react-pro-typist/static/js/787.e0072e62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bddcea.css",
+    "static/js/main.980a2532.js"
+  ]
+}
